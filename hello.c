@@ -10,6 +10,7 @@
  int main(int argc, char **argv) {
      
      printf("Darin Ellis!\n");
+     printf("My major is Computer Engineering!\n")
      
      return 0;
  }
